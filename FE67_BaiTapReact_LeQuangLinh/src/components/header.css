@@ -1,0 +1,26 @@
+.container-fluid{
+    padding-left: 17px;
+    padding-right: 18.5px;
+    margin-bottom: 0.8px;
+}
+.navbar-brand{
+    font-size: 22.3px;
+}
+
+.navbar-nav li{
+    margin-left: -3px;
+    line-height: 1.8em;
+}
+
+.navbar-nav li a{
+    font-size: 17.35px;
+    letter-spacing: 0.4px;
+}
+ .navbar-toggler-icon{
+     width: 36px;
+     height: 33.5px;
+ }
+
+ .navbar-toggler:focus{
+    border: 1px solid white
+ }

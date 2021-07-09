@@ -1,0 +1,13 @@
+.carousel{
+    overflow: hidden;
+}
+
+.carousel-indicators li{
+    width: 34px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon{
+    width: 22px;
+    height: 22px;
+}
